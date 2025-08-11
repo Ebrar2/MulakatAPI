@@ -1,0 +1,6 @@
+@MulakatAPI_HostAddress = http://localhost:5044
+
+GET {{MulakatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
